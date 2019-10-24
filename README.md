@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello!
 
-Things you may want to cover:
+Jai reussi a creer les deux objets Dog & Dogsitter
 
-* Ruby version
+100 seed dans dog & dogsitters;
 
-* System dependencies
+dog et dogsitters sont bien liés en N-N avec stroll;
 
-* Configuration
+city ajouté avec references migrate donc city aussi est lié.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Appellez moi pour explications merci correcteur
